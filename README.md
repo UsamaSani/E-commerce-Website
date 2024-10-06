@@ -1,6 +1,6 @@
 # One Destination
 
-One Destination is an e-commerce website built as a JavaScript assignment. The website offers features like user authentication, product display, search functionality, product categorization, user registration, and a persistent shopping cart, making it a fully functional e-commerce solution.
+One Destination is an e-commerce website built as a JavaScript assignment. The website offers features like user authentication, product display, search functionality, product categorization, user registration, and a persistent shopping cart.
 
 ## Live Demo
 Check out the live version of the website [here](https://comforting-cupcake-f85d2f.netlify.app/).
