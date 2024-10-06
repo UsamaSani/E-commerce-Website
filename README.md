@@ -67,8 +67,3 @@ To clone and run this project locally,
 ├── login.js                  # JavaScript file for managing login and registration functionality
 ├── login.css                 # CSS file for styling login and registration pages
 └── README.md                 # Project documentation
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request. Please ensure your changes are well-documented and tested.
-
